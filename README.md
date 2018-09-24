@@ -8,3 +8,5 @@ now amended again, version 2.0
 amend 2018-09-23
 
 modified at 2018-09-24, midautumn.
+
+conflict! 
