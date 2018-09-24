@@ -1,1 +1,5 @@
 add local file. how to push into the remote repository?
+
+easy. after saved the file, it appears in 'Unstaged Changes' area. select it and right-click, pick the 'Add to Index'.
+the file moves into the below area 'Stage Changes'. Then write 'Commit Message', and click button 'Commit'
+the file record into the local repository. 
